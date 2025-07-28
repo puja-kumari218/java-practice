@@ -14,7 +14,7 @@ public class string {
                 break;
         
             default: level =0;
-                break;
+                break;   
         }
         System.out.println("your level is" + level);
     }
